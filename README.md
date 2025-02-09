@@ -40,6 +40,19 @@
 
 <h2 align="center">:rocket: O que você encontrará aqui</h2> 
 
+<p align="left"><br>
+🗂️ Este repositório é uma coleção dos meus projetos, exercícios e experimentos conforme eu progredi na minha carreira como desenvolvedor. Algumas das coisas que vocês encontrará: <br>
+
+📚 Projeto de Fontend: Designs criativos e interfaces funcionais usando HTML, CSS e JavaScript. <br>
+🧩 Desafios de Códigos: Pequenos exercícios de codificação para melhorar as habilidades de resolução de problemas.
+📋 Registros de Aprendizagem: Anotações e miniprojetos documentando meu processo de aprendizagem.
+</p>
+
+<br>
+
+<h2 align="center">🔥 Minhas estatíscas:</h2> 
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
