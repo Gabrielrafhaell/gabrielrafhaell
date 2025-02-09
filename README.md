@@ -2,7 +2,7 @@
 
 ###
 
-  <p align="left">:gorilla: Um pouco sobre mim</p>
+  <p align="center">:gorilla: Um pouco sobre mim</p>
 
 ###
 
