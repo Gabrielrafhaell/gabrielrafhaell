@@ -51,7 +51,7 @@
 
 <br>
 
-<h2 align="center">🔥 Minhas estatíscas:</h2> 
+<h3 align="center">🔥 Minhas estatíscas:</h3> 
 
 
 <div align="center">
