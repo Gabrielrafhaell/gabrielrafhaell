@@ -2,15 +2,20 @@
 
 ###
 
-<p align="left">:gorilla: Um pouco sobre mim</p>
+  <p align="left">:gorilla: Um pouco sobre mim</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Olá, Sou Gabriel Rafhael</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"><br>
+📚 Atualmente estou cursando Sistema de informação<br>
+🖥️ Full-stack Developer JR, aprendendo e crescendo a cada dia<br>
+🎯 Focado em HTML, CSS, JavaScript, Git e Desenvolvimento Web.
+🛠️ Construindo projetos para desenvolver minhas habilidades e mostrar minha jornada.
+</p>
 
 ###
 
