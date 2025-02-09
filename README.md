@@ -11,9 +11,9 @@
 ###
 
 <p align="left"><br>
-📚 Atualmente estou cursando Sistema de informação<br>
-🖥️ Full-stack Developer JR, aprendendo e crescendo a cada dia<br>
-🎯 Focado em HTML, CSS, JavaScript, Git e Desenvolvimento Web.
+📚 Atualmente estou cursando Sistema de informação <br>
+🖥️ Full-stack Developer JR, aprendendo e crescendo a cada dia <br>
+🎯 Focado em HTML, CSS, JavaScript, Git e Desenvolvimento Web. <br>
 🛠️ Construindo projetos para desenvolver minhas habilidades e mostrar minha jornada.
 </p>
 
