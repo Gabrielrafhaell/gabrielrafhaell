@@ -1,6 +1,7 @@
 <h1 align="left">:rocket: Bem-vindo ao meu GitHub!</h1>
 
-<h2 align="center">:gorilla: Um pouco sobre mim</h2>
+<h2 align="center">:🚀 Um pouco sobre mim</h2>
+<br>
 
 <p align="left">👋🏻 Olá, Sou Gabriel Rafhael<p>
 <p align="left">🌏 Sou de Santa Catarina, Brasil.<p>
