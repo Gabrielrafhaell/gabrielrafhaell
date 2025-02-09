@@ -18,7 +18,7 @@
 <br>
 
 
-<h2 align="center">🛠️ Linguagem e ferramentas</h2>
+<h3 align="center">🛠️ Linguagem e ferramentas</h3>
 
 ###
 
