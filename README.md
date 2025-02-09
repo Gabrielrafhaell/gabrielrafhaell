@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋🏻 Olá, Sou Gabriel Rafhael<p> <br>
+<p align="left">👋🏻 Olá, Sou Gabriel Rafhael<p>
 <p align="left">🌏 Sou de Santa Catarina, Brasil.<p>
 
 ###
@@ -18,6 +18,7 @@
 🛠️ Construindo projetos para desenvolver minhas habilidades e mostrar minha jornada.
 </p>
 
+<br>
 ###
 
 <h2 align="center">🛠️ Linguagem e ferramentas</h2>
