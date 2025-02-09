@@ -2,11 +2,11 @@
 
 ###
 
-  <p align="center">:gorilla: Um pouco sobre mim</p>
+  <h2 align="center">:gorilla: Um pouco sobre mim</h2>
 
 ###
 
-<h2 align="left">Olá, Sou Gabriel Rafhael</h2>
+<p align="left">Olá, Sou Gabriel Rafhael<p>
 
 ###
 
