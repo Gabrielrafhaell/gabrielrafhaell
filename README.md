@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">Olá, Sou Gabriel Rafhael<p>
+<p align="left">👋🏻 Olá, Sou Gabriel Rafhael<p> <br>
+<p align="left">🌏 Sou de Santa Catarina, Brasil.<p>
 
 ###
 
@@ -19,7 +20,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">🛠️ Linguagem e ferramentas</h2>
 
 ###
 
