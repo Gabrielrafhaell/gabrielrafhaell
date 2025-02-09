@@ -1,6 +1,6 @@
 <h1 align="left">:rocket: Bem-vindo ao meu GitHub!</h1>
 
-<h2 align="center">🚀 Um pouco sobre mim</h2>
+<h3 align="center">🚀 Um pouco sobre mim</h3>
 <br>
 
 <p align="left">👋🏻 Olá, Sou Gabriel Rafhael<p>
